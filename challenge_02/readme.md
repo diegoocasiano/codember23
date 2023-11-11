@@ -1,4 +1,4 @@
-** Mini Compiler Challenge **
+# Mini Compiler Challenge
 En el mundo del espionaje, se utiliza un lenguaje de codificación con símbolos que realizan operaciones matemáticas simples.
 
 Tu tarea es crear un mini compilador que interprete y ejecute programas escritos en este lenguaje de símbolos.
